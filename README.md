@@ -66,7 +66,7 @@ Because it comes with a Plugin-in for the IBM Blockchain Platform, which makes i
 ### Dev team ( Architect, Domain expert, marketing expert, Operators, Devs)
      
 ### Consensus algorithm/ Ordering service, Solo, Kafka, Raft 
-### MSP, ORGS, Peers, Channels
+### MSP, ORGS, Peers, Channels, Ledger, World State Database
  
  
  # II) Developing Smart Contracts in VSCode

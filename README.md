@@ -6,7 +6,7 @@
 
 # An introduction to the IBM Blockchain Platform 2.0!
 
-# Contacts: [Lennart Frantzell]("Linkedin.com/in/lennartfrantzell/")
+# Contacts: [Lennart Frantzell](http:"//Linkedin.com/in/lennartfrantzell/")
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 

@@ -62,22 +62,12 @@ Because it comes with a Plugin-in for the IBM Blockchain Platform, which makes i
 ### Move selected Off-chain data On-Chain
   
 ### Smart Contracts
-  
-### Dev team
-  ### Architect
-  ### Domain expert, marketing expert
-  ### Operator
-  ### Two devs
-
-### Blockchain Architecture
-
-  ### Consensus algorithm/ Ordering service, Solo, Kafka, Raft 
-  ###   
-  ### ORGS, Peers, Channels, etc.
-  
-
-
-
+   
+### Dev team ( Architect, Domain expert, marketing expert, Operators, Devs)
+     
+### Consensus algorithm/ Ordering service, Solo, Kafka, Raft 
+### MSP, ORGS, Peers, Channels
+ 
  
  # II) Developing Smart Contracts in VSCode
  

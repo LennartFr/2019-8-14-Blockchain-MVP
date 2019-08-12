@@ -20,35 +20,6 @@
 
 <a href="https://github.com/hyperledger/fabric">Hyperledger Fabric source code on GitHub</a>
 
-
-# Step 1: Start with: <a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
-      
-# Step 2: Existing architecture, systems, domain knowledge and data, regulations
-  
-  ## 2.2: Move selected Off-chain data On-Chain
-  
-# Step 3: Smart Contracts
-  
-# Step 4: dev team
-  ### 1 Architect
-  ### 1 domain expert, marketing expert
-  ### 1 operator
-  ### 2 devs
-
-### Step 5: Blockchain Architecture
-
-   ### Ordering Service
-   ### Solo
-   ### Kafka
-   ### Raft
-   
-   ## How many ORGS, Peers, etc.
-  
-
-
-
-
-
 # I) Learning Objectives:
 
 What we will be doing:

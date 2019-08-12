@@ -6,10 +6,8 @@
 
 # An introduction to the IBM Blockchain Platform 2.0!
 
-# Contacts:
+# Contacts: Linkedin.com/in/lennartfrantzell/
 
-## Linkedin.com/in/lennartfrantzell/
- 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist)

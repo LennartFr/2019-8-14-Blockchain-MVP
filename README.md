@@ -29,7 +29,7 @@ What we will be doing:
  
 [https://ibm.biz/BdzyZr](https://ibm.biz/BdzyZr)
 
-<a href="https://ibm.biz/BdzyZr><img src="img/login.png"></a>
+<a href="https://ibm.biz/BdzyZr"><img src="img/login.png"></a>
  
 ## 2. Install Visual Studio Code
 

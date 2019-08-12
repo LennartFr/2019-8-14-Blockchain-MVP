@@ -27,7 +27,7 @@ What we will be doing:
  Why will we sign up to a free IBM Cloud account?
  Because IBM Blockchain Platform runs in the IBM cloud.
  
-<a href="https://ibm.biz/BdzyZr"><p> 
+<a href="https://ibm.biz/BdzyZr">https://ibm.biz/BdzyZrp</a> 
  
 <a href="https://ibm.biz/BdzyZr"><img src="img/login.png"></a>
  

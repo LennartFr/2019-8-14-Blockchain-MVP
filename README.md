@@ -61,13 +61,13 @@ Because it comes with a Plugin-in for the IBM Blockchain Platform, which makes i
       
 ### Domain knowledge: Existing architecture, systems, domain knowledge and data, regulations
   
-### Move selected Off-chain data On-Chain
+### Move selected Off-chain data to On-Chain
   
 ### Smart Contracts
    
-### Dev team ( Architect, Domain expert, marketing expert, Operators, Devs)
+### Recruit your dev team ( Architect, Domain expert, marketing expert, Operators, Devs)
      
-### Consensus algorithm/ Ordering service, Solo, Kafka, Raft 
+### Consensus algorithm/ Ordering service: Solo, Kafka, Raft 
 ### MSP, ORGS, Peers, Channels, Ledger, World State Database
  
  

@@ -99,6 +99,8 @@ Because it comes with a Plugin-in for the IBM Blockchain Platform, which makes i
 ----------------------------
 
  <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/smartcontract/smartcontract.html ">Smart Contracts, see charts above</a>  
+ 
+ <a href="https://developer.ibm.com/patterns/category/blockchain/">IBM Blockchain Code Patterns</a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
  

@@ -16,6 +16,8 @@
 
 <a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/">Hyperledger Fabric Read the Docs</a>
 
+<a href="https://hyperledger-fabric.readthedocs.io/en/release-1.4/key_concepts.html">Key Concepts</a>
+
 <a href="https://github.com/hyperledger/fabric">Hyperledger Fabric source code on GitHub</a>
 
 # I) Learning Objectives:

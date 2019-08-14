@@ -113,3 +113,6 @@ Certificate Authority<p>
 
 Channel<p>
 <img src="img/channel.png">
+
+Transaction<p>
+<img src="img/transaction.png">

@@ -115,4 +115,4 @@ Channel<p>
 <img src="img/channel.png">
 
 Transaction<p>
-<img src="img/transaction.png">
+<img src="img/Transaction.png">

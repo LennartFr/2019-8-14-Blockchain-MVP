@@ -10,10 +10,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-[Whitelisting](https://cloud.ibm.com/registration/whitelist)
-
-
-# The Beginning.
+# In the Beginning.
 
 It all started in October during the Global Financial Crisis in 2008 with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 <p><i><b>
@@ -81,10 +78,6 @@ https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
 ## Non-Blockchain consumer alternatives: Venmo and Swedish Swish.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
-
-
 
 # Sources
 
@@ -197,4 +190,6 @@ Transaction<p>
 <img src="img/multicloud.png">
  
  
- [Whitelisting](https://cloud.ibm.com/registration/whitelist)
+[Whitelisting](https://cloud.ibm.com/registration/whitelist)
+
+[Whitelisting](https://cloud.ibm.com/registration/whitelist)

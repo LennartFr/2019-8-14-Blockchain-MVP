@@ -116,3 +116,5 @@ Channel<p>
 
 Transaction<p>
 <img src="img/Transaction.png">
+ 
+ [Whitelisting](https://cloud.ibm.com/registration/whitelist)

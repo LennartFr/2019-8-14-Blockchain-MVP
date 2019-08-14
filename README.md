@@ -62,7 +62,10 @@ Because it comes with a Plugin-in for the IBM Blockchain Platform, which makes i
 ### Domain knowledge: Existing architecture, systems, domain knowledge and data, regulations
   
 ### Move selected Off-chain data to On-Chain
-  
+
+<img src="/img/brinkman.png">
+
+
 ### Smart Contracts
    
 ### Recruit your dev team ( Architect, Domain expert, marketing expert, Operators, Devs)
@@ -116,5 +119,8 @@ Channel<p>
 
 Transaction<p>
 <img src="img/Transaction.png">
+ 
+<img src="img/multicloud.png">
+ 
  
  [Whitelisting](https://cloud.ibm.com/registration/whitelist)

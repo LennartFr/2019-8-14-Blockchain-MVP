@@ -108,3 +108,4 @@ Because it comes with a Plugin-in for the IBM Blockchain Platform, which makes i
 
 <img src="img/IBPInCloud1.png">
 
+<img src="CertAuthority.png">
